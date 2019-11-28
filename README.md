@@ -1,5 +1,5 @@
 # MRCS-RelayBreakout
-## License: CERN Open Hardware Licence v1.2
+## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 Breakout for OMRON style DPDT relay
 
